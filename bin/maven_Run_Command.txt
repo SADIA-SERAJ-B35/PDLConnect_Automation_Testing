@@ -1,0 +1,5 @@
+mvn test -Dcucumber.filter.tags="@abc or @def"   (it will run all the scenarios which has one of them) 
+ 
+mvn test -Dcucumber.filter.tags="@abc and @def"   === scenarion have to have both of them 
+
+mvn clean install -DargLine="-Dextent.reporter.spark.start=true -Dextent.reporter.spark.out=test-output/SparkReport/Spark.html"
