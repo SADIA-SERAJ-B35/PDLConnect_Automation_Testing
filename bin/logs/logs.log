@@ -1,0 +1,1268 @@
+[INFO ] 2024-05-18 22:04:05.332 [main] TestLogger - try log in
+[INFO ] 2024-05-18 22:04:41.653 [main] TestLogger - try log in
+[INFO ] 2024-05-18 22:04:43.918 [main] TestLogger - try log in
+[INFO ] 2024-05-18 22:04:43.981 [main] TestLogger - try log in
+[INFO ] 2024-05-22 16:23:07.579 [main] ViewManufacturerContacts - logger started
+[INFO ] 2024-05-22 16:23:07.585 [main] CommonMethods - Checking visibility of the Element on browser screen
+[INFO ] 2024-05-23 14:40:02.276 [main] TestLogger - try log in
+[INFO ] 2024-05-23 14:40:07.972 [main] TestLogger - logged into myntra
+[INFO ] 2024-05-23 14:40:08.031 [main] TestLogger - Browser Quitting
+[INFO ] 2024-05-23 14:44:58.558 [main] TestLogger - try log in
+[INFO ] 2024-05-23 14:45:02.906 [main] TestLogger - logged into myntra
+[INFO ] 2024-05-23 14:45:02.943 [main] TestLogger - Browser Quitting
+[INFO ] 2024-05-23 16:33:36.654 [main] Driver - this is new logger added
+[INFO ] 2024-05-23 16:48:09.054 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-23 17:35:32.820 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-23 17:35:36.636 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-23 17:35:36.636 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-23 17:35:36.697 [main] Hooks - ================================================================
+[INFO ] 2024-05-23 17:35:36.698 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-23 17:35:36.698 [main] Hooks - =================================================================
+[INFO ] 2024-05-23 17:35:36.757 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-23 17:35:36.766 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-23 17:35:37.333 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-23 17:35:37.333 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-23 17:35:37.335 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-23 17:35:37.335 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-23 17:35:43.062 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-23 17:35:43.063 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-23 17:35:53.364 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-23 17:35:53.366 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-23 17:35:53.366 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-23 17:52:05.434 [main] Hooks - ================================================================
+[INFO ] 2024-05-23 17:52:05.437 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-23 17:52:05.437 [main] Hooks - =================================================================
+[INFO ] 2024-05-23 17:52:05.443 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-23 17:52:07.604 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-23 17:52:07.604 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-23 17:52:07.706 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-23 17:52:07.719 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-23 17:52:08.077 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-23 17:52:08.077 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-23 17:52:08.078 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-23 17:52:08.079 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-23 17:52:13.865 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-23 17:52:13.866 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-23 17:52:24.102 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-23 17:52:24.103 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-23 17:52:24.103 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-23 17:53:54.667 [main] Hooks - ================================================================
+[INFO ] 2024-05-23 17:53:54.669 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-23 17:53:54.669 [main] Hooks - =================================================================
+[INFO ] 2024-05-23 17:53:54.675 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-23 17:53:56.784 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-23 17:53:56.785 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-23 17:53:56.882 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-23 17:53:56.897 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-23 17:53:57.560 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-23 17:53:57.560 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-23 17:53:57.561 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-23 17:53:57.561 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-23 17:54:02.838 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-23 17:54:02.839 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-23 17:54:12.856 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-23 17:54:12.859 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-23 17:54:12.859 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-23 17:54:12.878 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 02:02:38.550 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 02:02:38.555 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 02:02:38.555 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 02:02:38.562 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 02:02:42.645 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 02:02:42.646 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 02:02:42.751 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 02:02:42.766 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 02:02:43.292 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 02:02:43.292 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 02:02:43.295 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 02:02:43.295 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 02:02:49.533 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 02:02:49.534 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 02:02:59.555 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 02:02:59.806 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 02:02:59.807 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 02:02:59.807 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:24:29.393 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:24:31.866 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 03:24:31.866 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:24:31.949 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:24:31.949 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:24:31.950 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:24:33.210 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 03:24:33.223 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 03:24:33.711 [main] LoginStepDef - Page Title is =Sign in to your account
+[INFO ] 2024-05-24 03:24:33.711 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:24:33.713 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 03:24:33.713 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 03:24:37.936 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 03:24:37.937 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 03:24:47.979 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 03:24:48.231 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:24:48.232 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 03:24:48.232 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-24 03:24:48.868 [main] FileSystemFontProvider - New fonts found, font cache will be re-built
+[WARN ] 2024-05-24 03:24:48.868 [main] FileSystemFontProvider - Building on-disk font cache, this may take a while
+[WARN ] 2024-05-24 03:24:51.352 [main] FileSystemFontProvider - Finished building on-disk font cache, found 415 fonts
+[INFO ] 2024-05-24 03:32:13.946 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:32:16.226 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 03:32:16.226 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:32:16.288 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:32:16.288 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:32:16.288 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:32:16.385 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 03:32:16.406 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 03:32:16.925 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 03:32:16.926 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:32:17.048 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 03:32:17.048 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 03:32:22.910 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 03:32:22.911 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 03:32:33.133 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 03:32:33.390 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:32:33.392 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 03:32:33.392 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:35:10.091 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:35:10.093 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:35:10.093 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:35:10.098 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:35:12.190 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 03:35:12.190 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:35:12.316 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 03:35:12.330 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 03:35:12.892 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 03:35:12.892 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:35:13.015 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 03:35:13.015 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 03:35:18.627 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 03:35:18.627 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 03:35:28.805 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:35:28.807 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 03:35:28.807 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:35:28.822 [main] Hooks - CLosing the Driver
+[WARN ] 2024-05-24 03:35:28.880 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+[INFO ] 2024-05-24 03:42:04.024 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:42:04.027 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:42:04.027 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:42:04.031 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:42:06.279 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 03:42:06.279 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:42:06.396 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 03:42:06.410 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 03:42:06.942 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 03:42:06.942 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:42:07.062 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 03:42:07.063 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 03:42:12.649 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 03:42:12.650 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 03:42:22.840 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 03:42:23.038 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:42:23.039 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 03:42:23.040 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:44:13.599 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:44:15.817 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 03:44:15.818 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:44:15.880 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:44:15.880 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:44:15.880 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:44:15.954 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 03:44:15.977 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 03:44:16.511 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 03:44:16.511 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:44:16.634 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 03:44:16.634 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 03:44:22.424 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 03:44:22.425 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 03:44:32.580 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:44:32.582 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 03:44:32.582 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:44:32.600 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 03:49:44.955 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:49:56.225 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:49:56.225 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:49:56.225 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:49:56.234 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:49:56.235 [main] Hooks - Scenario Description: Login : Status - FAILED
+[INFO ] 2024-05-24 03:49:56.235 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:49:56.249 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 03:51:55.013 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:51:57.359 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 03:51:57.359 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:51:57.421 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:51:57.421 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:51:57.421 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:51:57.487 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 03:51:57.498 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 03:51:58.050 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 03:51:58.050 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:51:58.174 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 03:51:58.174 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 03:52:03.540 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 03:52:03.541 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 03:52:13.735 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 03:52:13.979 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:52:13.982 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 03:52:13.982 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:54:24.448 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:54:26.598 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 03:54:26.598 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:54:26.649 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:54:26.650 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:54:26.650 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:54:26.720 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 03:54:26.734 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 03:54:27.315 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 03:54:27.315 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:54:27.438 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 03:54:27.438 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 03:54:32.712 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 03:54:32.713 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 03:54:42.920 [main] Hooks - CLosing the Driver
+[WARN ] 2024-05-24 03:54:43.010 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+[INFO ] 2024-05-24 03:54:43.175 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:54:43.176 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 03:54:43.176 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:56:57.391 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 03:56:57.394 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 03:56:57.394 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 03:56:57.398 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 03:56:58.957 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 03:56:58.957 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:56:59.587 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 03:56:59.601 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 03:57:00.204 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 03:57:00.204 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 03:57:00.326 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 03:57:00.326 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 03:57:05.761 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 03:57:05.762 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 03:57:15.950 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 03:57:16.152 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 03:57:16.153 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 03:57:16.153 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 18:46:39.576 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 18:46:41.688 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 18:46:41.689 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 18:46:42.279 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 18:46:42.279 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 18:46:42.279 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 18:46:42.355 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 18:46:42.373 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 18:46:42.980 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 18:46:42.980 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 18:46:43.089 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 18:46:43.089 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 18:46:49.043 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 18:46:49.044 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 18:46:59.213 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 18:46:59.400 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 18:46:59.401 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 18:46:59.401 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:00:12.503 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:00:14.755 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:00:14.755 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:00:14.814 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:00:14.814 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:00:14.814 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:00:14.886 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:00:14.905 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:00:15.538 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:00:15.538 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:00:15.645 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:00:15.645 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:00:21.397 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:00:21.398 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:00:31.605 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:00:31.608 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:00:31.608 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:00:31.619 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 19:06:25.496 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:06:25.501 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:06:25.501 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:06:25.505 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:06:26.473 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:06:26.473 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:06:27.721 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:06:27.733 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:06:28.493 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:06:28.493 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:06:28.642 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:06:28.642 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:06:34.168 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:06:34.169 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:06:44.335 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 19:06:44.586 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:06:44.587 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:06:44.587 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:08:28.111 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:08:28.114 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:08:28.114 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:08:28.119 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:08:30.293 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:08:30.294 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:08:30.383 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:08:30.394 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:08:30.941 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:08:30.941 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:08:31.045 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:08:31.045 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:08:36.860 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:08:36.861 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:08:47.035 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:08:47.037 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:08:47.037 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:08:47.050 [main] Hooks - CLosing the Driver
+[WARN ] 2024-05-24 19:17:12.939 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[WARN ] 2024-05-24 19:17:32.719 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[WARN ] 2024-05-24 19:18:19.327 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 19:18:22.487 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:18:24.687 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:18:24.687 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:18:24.749 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:18:24.749 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:18:24.749 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:18:24.826 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:18:24.842 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:18:25.540 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:18:25.540 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:18:25.656 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:18:25.656 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:18:31.724 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:18:31.724 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:18:41.906 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 19:18:42.099 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:18:42.100 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:18:42.100 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-24 19:19:45.762 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 19:19:48.632 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:19:49.612 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:19:49.612 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:19:50.849 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:19:50.849 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:19:50.849 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:19:50.898 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:19:50.908 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:19:51.402 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:19:51.403 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:19:51.540 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:19:51.540 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:19:57.105 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:19:57.106 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:20:07.268 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 19:20:07.454 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:20:07.457 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:20:07.457 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-24 19:22:17.189 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 19:22:20.070 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:22:22.333 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:22:22.333 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:22:22.381 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:22:22.381 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:22:22.381 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:22:22.434 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:22:22.446 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:22:22.946 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:22:22.946 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:22:23.054 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:22:23.054 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:22:28.737 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:22:28.737 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:22:38.881 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 19:22:39.086 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:22:39.087 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:22:39.088 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-24 19:26:08.069 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 19:26:10.971 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:26:13.043 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:26:13.044 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:26:13.093 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:26:13.093 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:26:13.093 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:26:13.150 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:26:13.167 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:26:13.698 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:26:13.698 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:26:13.800 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:26:13.800 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:26:19.701 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:26:19.702 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:26:29.869 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 19:26:30.062 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:26:30.063 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:26:30.063 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:27:57.017 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:27:57.019 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:27:57.019 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:27:57.024 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:27:59.672 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:27:59.672 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:27:59.757 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:27:59.769 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:28:00.391 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:28:00.391 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:28:00.512 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:28:00.513 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:28:06.442 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:28:06.442 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:28:16.594 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:28:16.595 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:28:16.596 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:28:16.607 [main] Hooks - CLosing the Driver
+[WARN ] 2024-05-24 19:29:02.088 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 19:29:04.964 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:29:06.812 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:29:06.812 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:29:06.867 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:29:06.867 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:29:06.867 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:29:06.923 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:29:06.934 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:29:07.540 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:29:07.540 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:29:07.648 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:29:07.648 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:29:13.653 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:29:13.654 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:29:23.828 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 19:29:24.039 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:29:24.040 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:29:24.041 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-24 19:43:04.895 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[WARN ] 2024-05-24 19:44:36.688 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[WARN ] 2024-05-24 19:46:40.778 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[WARN ] 2024-05-24 19:59:31.246 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 19:59:34.973 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 19:59:37.124 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 19:59:37.125 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:59:37.181 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 19:59:37.181 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 19:59:37.181 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 19:59:37.250 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 19:59:37.265 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 19:59:37.792 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 19:59:37.792 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 19:59:37.904 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 19:59:37.905 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 19:59:43.351 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 19:59:43.352 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 19:59:53.520 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:59:53.521 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 19:59:53.521 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 19:59:53.533 [main] Hooks - CLosing the Driver
+[WARN ] 2024-05-24 20:00:50.777 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 20:00:53.678 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 20:00:56.821 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 20:00:56.822 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 20:00:58.314 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 20:00:58.314 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-24 20:00:58.314 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 20:00:58.318 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-24 20:00:58.456 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-24 20:00:58.559 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 20:00:58.727 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 20:00:58.728 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-24 20:00:58.728 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-24 20:02:09.736 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 20:02:12.539 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 20:02:12.539 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 20:02:12.539 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 20:02:12.544 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 20:02:14.694 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 20:02:14.694 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 20:02:14.778 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 20:02:14.786 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 20:02:15.292 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 20:02:15.292 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 20:02:15.407 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 20:02:15.407 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 20:02:21.267 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 20:02:21.267 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 20:02:31.438 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 20:02:31.632 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 20:02:31.633 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 20:02:31.633 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-24 20:04:26.051 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-24 20:04:28.878 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 20:04:28.878 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-24 20:04:28.878 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 20:04:28.882 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 20:04:31.057 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 20:04:31.057 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 20:04:31.108 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-24 20:04:31.232 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-24 20:04:31.342 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 20:04:31.524 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 20:04:31.525 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-24 20:04:31.526 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 21:37:23.257 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-24 21:37:25.477 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-24 21:37:25.477 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 21:37:25.530 [main] Hooks - ================================================================
+[INFO ] 2024-05-24 21:37:25.530 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-24 21:37:25.530 [main] Hooks - =================================================================
+[INFO ] 2024-05-24 21:37:25.574 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-24 21:37:25.586 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-24 21:37:26.154 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-24 21:37:26.154 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-24 21:37:26.292 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-24 21:37:26.292 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-24 21:37:32.271 [main] CommonMethods - Checking visibility of the Element on browser screen
+[INFO ] 2024-05-24 21:37:54.376 [main] CommonMethods - Wait for the element is completed, Element is visible on the screen
+[INFO ] 2024-05-24 21:37:54.376 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-24 21:37:54.377 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-24 21:38:04.522 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-24 21:38:04.776 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-24 21:38:04.778 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-24 21:38:04.778 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:00:44.324 [main] Hooks - ================================================================
+[INFO ] 2024-05-28 14:00:44.327 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-28 14:00:44.327 [main] Hooks - =================================================================
+[INFO ] 2024-05-28 14:00:44.332 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-28 14:01:02.470 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-28 14:01:02.470 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 14:01:02.555 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:01:02.557 [main] Hooks - Scenario Description: Login : Status - FAILED
+[INFO ] 2024-05-28 14:01:02.557 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:01:41.789 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-28 14:01:44.200 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-28 14:01:44.200 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 14:01:44.242 [main] Hooks - ================================================================
+[INFO ] 2024-05-28 14:01:44.244 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-28 14:01:44.245 [main] Hooks - =================================================================
+[INFO ] 2024-05-28 14:01:44.256 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-28 14:01:44.292 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:01:44.296 [main] Hooks - running abc tag Status - FAILED
+[INFO ] 2024-05-28 14:01:44.296 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:01:58.932 [main] Hooks - ================================================================
+[INFO ] 2024-05-28 14:01:58.935 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-28 14:01:58.935 [main] Hooks - =================================================================
+[INFO ] 2024-05-28 14:01:58.939 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-28 14:02:17.859 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-28 14:02:17.860 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 14:02:35.112 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-28 14:02:35.288 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-28 14:02:35.415 [main] Hooks - CLosing the Driver
+[WARN ] 2024-05-28 14:02:35.493 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+[INFO ] 2024-05-28 14:02:35.627 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:02:35.628 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-28 14:02:35.628 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-28 14:08:39.793 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-28 14:08:44.990 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-28 14:09:08.010 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-28 14:09:08.010 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 14:09:23.925 [main] Hooks - ================================================================
+[INFO ] 2024-05-28 14:09:23.926 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-28 14:09:23.926 [main] Hooks - =================================================================
+[INFO ] 2024-05-28 14:09:23.930 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-28 14:09:24.167 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-28 14:09:24.361 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-28 14:09:25.562 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:09:25.563 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-28 14:09:25.564 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[WARN ] 2024-05-28 14:10:28.875 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-28 14:10:35.082 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-28 14:10:51.066 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-28 14:10:51.066 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 14:11:02.285 [main] Hooks - ================================================================
+[INFO ] 2024-05-28 14:11:02.285 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-28 14:11:02.285 [main] Hooks - =================================================================
+[INFO ] 2024-05-28 14:11:02.291 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-28 14:11:02.510 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-28 14:11:02.650 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:11:02.652 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-28 14:11:02.652 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:11:02.679 [main] Hooks - CLosing the Driver
+[WARN ] 2024-05-28 14:11:31.889 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-05-28 14:11:38.325 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-28 14:12:11.322 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-28 14:12:11.322 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 14:12:11.390 [main] Hooks - ================================================================
+[INFO ] 2024-05-28 14:12:11.390 [main] Hooks - Scenario Title: running DEF tag
+[INFO ] 2024-05-28 14:12:11.390 [main] Hooks - =================================================================
+[INFO ] 2024-05-28 14:12:11.396 [main] abc_SetpD - ************************-----------------------DEF tag---------------------------******************************
+[INFO ] 2024-05-28 14:12:11.519 [main] abc_SetpD - ************************-----------------------DEF tag---------------------------******************************
+[INFO ] 2024-05-28 14:12:11.665 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-28 14:12:11.861 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:12:11.863 [main] Hooks - running DEF tag Status - PASSED
+[INFO ] 2024-05-28 14:12:11.863 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 14:59:09.547 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-28 14:59:31.955 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-28 14:59:31.955 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 14:59:47.443 [main] Hooks - ================================================================
+[INFO ] 2024-05-28 14:59:47.443 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-28 14:59:47.443 [main] Hooks - =================================================================
+[INFO ] 2024-05-28 14:59:47.508 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-28 14:59:47.527 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-28 14:59:48.929 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-28 14:59:48.929 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 14:59:49.262 [main] LoginStepDef - Page title: Mrx - Dev - Sign In
+[INFO ] 2024-05-28 14:59:49.419 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-28 14:59:49.420 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-28 15:00:14.159 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 15:00:14.161 [main] Hooks - Scenario Description: Login : Status - FAILED
+[INFO ] 2024-05-28 15:00:14.161 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 15:00:14.178 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-28 15:00:15.890 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-28 15:00:59.247 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-28 15:00:59.247 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 15:00:59.334 [main] Hooks - ================================================================
+[INFO ] 2024-05-28 15:00:59.334 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-28 15:00:59.334 [main] Hooks - =================================================================
+[INFO ] 2024-05-28 15:00:59.387 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-28 15:00:59.408 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-28 15:01:01.596 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-28 15:01:01.596 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-28 15:01:01.834 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-28 15:01:01.834 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-28 15:01:03.640 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-28 15:01:03.640 [main] Hooks - Scenario Description: Login : Status - FAILED
+[INFO ] 2024-05-28 15:01:03.640 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:49:24.915 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 12:49:24.925 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 12:51:17.033 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 12:51:17.036 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 12:51:17.036 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 12:51:17.040 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 12:51:19.750 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-29 12:51:19.750 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 12:51:19.801 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 12:51:21.380 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 12:51:21.621 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 12:51:21.802 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:51:21.803 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 12:51:21.803 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:51:53.736 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 12:51:53.738 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 12:51:53.739 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 12:51:53.743 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 12:51:55.579 [main] Hooks - ***********this is new logger added**************
+[INFO ] 2024-05-29 12:51:55.579 [main] Hooks - Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 12:51:55.629 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 12:51:55.739 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 12:51:55.819 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:51:55.821 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 12:51:55.821 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:51:55.832 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 12:55:59.915 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 12:55:59.921 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 12:55:59.921 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 12:55:59.928 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 12:56:02.037 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 12:56:02.037 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 12:56:02.037 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 12:56:02.054 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 12:56:02.055 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 12:56:02.086 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 12:56:02.091 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 12:56:03.335 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 12:56:03.891 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:56:03.892 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 12:56:03.893 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:56:03.915 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 12:58:27.503 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 12:58:27.506 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 12:58:27.506 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 12:58:27.511 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 12:58:29.548 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 12:58:29.548 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 12:58:29.548 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 12:58:29.562 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 12:58:29.562 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 12:58:29.582 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 12:58:29.586 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 12:58:29.729 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 12:58:29.874 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 12:58:30.021 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:58:30.022 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 12:58:30.022 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:58:52.878 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 12:58:54.818 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 12:58:54.818 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 12:58:54.818 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 12:58:54.829 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 12:58:54.829 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 12:58:54.846 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 12:58:54.851 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 12:58:54.851 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 12:58:54.851 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 12:58:54.854 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 12:58:55.006 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 12:58:55.145 [main] Hooks - CLosing the Driver
+[WARN ] 2024-05-29 12:58:55.213 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:840) [?:?]
+[INFO ] 2024-05-29 12:58:55.332 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 12:58:55.333 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 12:58:55.333 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 13:24:11.150 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 13:24:11.153 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 13:24:11.153 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 13:24:11.158 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 13:24:13.110 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 13:24:13.111 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 13:24:13.111 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 13:24:13.126 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 13:24:13.126 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 13:24:13.157 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 13:24:13.163 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 13:24:14.611 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 13:24:14.862 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 13:24:14.863 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 13:24:14.864 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 13:24:53.028 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 13:24:53.030 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 13:24:53.030 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 13:24:53.035 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 13:24:54.956 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 13:24:54.956 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 13:24:54.956 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 13:24:54.965 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 13:24:54.965 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 13:24:54.982 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 13:24:54.987 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 13:24:56.605 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 13:24:56.889 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 13:24:57.037 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 13:24:57.039 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 13:24:57.040 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 13:24:57.040 [main] Hooks - 
+------------------------------------------------------------------------------------------------------
+
+[INFO ] 2024-05-29 13:26:42.232 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 13:26:42.234 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 13:26:42.234 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 13:26:42.239 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 13:26:44.588 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 13:26:44.588 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 13:26:44.588 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 13:26:44.605 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 13:26:44.605 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 13:26:44.635 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 13:26:44.640 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 13:26:45.955 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 13:26:46.202 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 13:26:46.204 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 13:26:46.204 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 13:26:46.215 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 13:26:46.400 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 13:41:55.836 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 13:41:57.855 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 13:41:57.855 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 13:41:57.855 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 13:41:57.871 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 13:41:57.871 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 13:41:57.903 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 13:41:57.911 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 13:41:57.911 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 13:41:57.911 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 13:41:57.918 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 13:41:58.068 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 13:41:58.188 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 13:41:58.382 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 13:41:58.384 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 13:41:58.386 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 13:41:58.386 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:21:56.299 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 14:21:58.145 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 14:21:58.145 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 14:21:58.145 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 14:21:58.162 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 14:21:58.162 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 14:21:58.193 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 14:21:58.200 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 14:21:58.201 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 14:21:58.201 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 14:21:59.370 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:21:59.372 [main] Hooks - running abc tag Status - FAILED
+[INFO ] 2024-05-29 14:21:59.372 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:21:59.504 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 14:21:59.695 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 14:23:04.973 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 14:23:06.970 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 14:23:06.970 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 14:23:06.970 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 14:23:06.980 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 14:23:06.981 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 14:23:07.000 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 14:23:07.005 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 14:23:07.006 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 14:23:07.006 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 14:23:07.009 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 14:23:08.558 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 14:23:08.959 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:23:08.961 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 14:23:08.961 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:23:09.016 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 14:23:09.203 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 14:26:20.408 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 14:26:21.714 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 14:26:21.714 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 14:26:21.714 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 14:26:22.248 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 14:26:22.249 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 14:26:22.278 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 14:26:22.283 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 14:26:22.283 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 14:26:22.283 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 14:26:22.287 [main] StepNameListener - ====================================================================
+[WARN ] 2024-05-29 14:26:22.287 [main] StepNameListener - ***************Executing step: I want to write a step with precondition*****************
+[INFO ] 2024-05-29 14:26:22.287 [main] StepNameListener - ====================================================================
+[INFO ] 2024-05-29 14:26:22.288 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 14:26:23.494 [main] StepNameListener - ====================================================================
+[WARN ] 2024-05-29 14:26:23.494 [main] StepNameListener - ***************Executing step: some other precondition*****************
+[INFO ] 2024-05-29 14:26:23.494 [main] StepNameListener - ====================================================================
+[INFO ] 2024-05-29 14:26:23.494 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 14:26:23.733 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:26:23.735 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 14:26:23.735 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:26:23.746 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 14:26:23.938 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 14:27:39.460 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 14:27:39.463 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 14:27:39.463 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 14:27:39.467 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 14:27:41.594 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 14:27:41.594 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 14:27:41.594 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 14:27:41.602 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 14:27:41.603 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 14:27:41.621 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 14:27:41.626 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-05-29 14:27:41.627 [main] StepNameListener - ***************Executing step: I want to write a step with precondition*****************
+[INFO ] 2024-05-29 14:27:41.627 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-05-29 14:27:41.627 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 14:27:41.765 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-05-29 14:27:41.765 [main] StepNameListener - ***************Executing step: some other precondition*****************
+[INFO ] 2024-05-29 14:27:41.765 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-05-29 14:27:41.765 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 14:27:41.876 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 14:27:42.058 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 14:27:42.061 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:27:42.064 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 14:27:42.064 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:29:29.416 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 14:29:30.669 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 14:29:30.669 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 14:29:30.669 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 14:29:31.225 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 14:29:31.225 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 14:29:31.243 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 14:29:31.248 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 14:29:31.248 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-05-29 14:29:31.248 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 14:29:31.252 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-05-29 14:29:31.252 [main] StepNameListener - ***************Executing step: I want to write a step with precondition*****************
+[INFO ] 2024-05-29 14:29:31.252 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-05-29 14:29:31.252 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-05-29 14:29:32.412 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-05-29 14:29:32.412 [main] StepNameListener - ***************Executing step: some other precondition*****************
+[INFO ] 2024-05-29 14:29:32.412 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-05-29 14:29:32.412 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-05-29 14:29:32.666 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 14:29:32.855 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 14:29:32.858 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 14:29:32.861 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-05-29 14:29:32.861 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 15:08:52.090 [main] Hooks - ================================================================
+[INFO ] 2024-05-29 15:08:52.093 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-05-29 15:08:52.093 [main] Hooks - =================================================================
+[INFO ] 2024-05-29 15:08:52.097 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-05-29 15:08:54.213 [main] Hooks - ***********URL Lunched**************
+[INFO ] 2024-05-29 15:08:54.213 [main] Hooks - URL : Prining from Hooks:   https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 15:08:54.213 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-05-29 15:08:54.232 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-05-29 15:08:54.233 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-05-29 15:08:54.263 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-05-29 15:08:54.269 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-05-29 15:08:54.269 [main] StepNameListener - Executing step: user is on home page
+[INFO ] 2024-05-29 15:08:54.269 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-05-29 15:08:54.369 [main] LoginStepDef - Executing first 
+[INFO ] 2024-05-29 15:08:54.396 [main] BrowserUtil - ************************ Page is refreshing *********************************
+[INFO ] 2024-05-29 15:08:54.932 [main] LoginStepDef - Page Title is =Mrx - Dev - Sign In
+[INFO ] 2024-05-29 15:08:54.932 [main] LoginStepDef - url From ConfigFile:  https://pdlconnect.test.govt.lh.primetherapeutics.com/?iss=https:%2F%2Fciam-dev.primetherapeutics.com
+[INFO ] 2024-05-29 15:08:55.040 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-05-29 15:08:55.041 [main] StepNameListener - Executing step: user should land on my user page
+[INFO ] 2024-05-29 15:08:55.041 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-05-29 15:08:55.041 [main] LoginStepDef - Step: user should land on my user page
+[INFO ] 2024-05-29 15:08:55.041 [main] CommonMethods - Expected Title from properties file is =PDL Connect
+[INFO ] 2024-05-29 15:09:01.030 [main] CommonMethods - Checking visibility of the Element on browser screen
+[INFO ] 2024-05-29 15:09:23.159 [main] CommonMethods - Wait for the element is completed, Element is visible on the screen
+[INFO ] 2024-05-29 15:09:23.160 [main] CommonMethods - Title: PDL Connect
+[INFO ] 2024-05-29 15:09:23.162 [main] SftAssert - User Landed on Homepage Successfully
+[INFO ] 2024-05-29 15:09:33.341 [main] Hooks - CLosing the Driver
+[INFO ] 2024-05-29 15:09:33.546 [main] Hooks - Driver Closed
+[INFO ] 2024-05-29 15:09:33.547 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-05-29 15:09:33.548 [main] Hooks - Scenario Description: Login : Status - PASSED
+[INFO ] 2024-05-29 15:09:33.548 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-06-02 14:54:28.155 [main] Hooks - ================================================================
+[INFO ] 2024-06-02 14:54:28.157 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-06-02 14:54:28.157 [main] Hooks - =================================================================
+[INFO ] 2024-06-02 14:54:28.165 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-06-02 14:54:32.896 [main] Hooks - *URL Lunched from hooks : https://www.walmart.com/
+[INFO ] 2024-06-02 14:54:32.897 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-06-02 14:54:32.923 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-06-02 14:54:32.923 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-06-02 14:54:33.555 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-06-02 14:54:33.558 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 14:54:33.558 [main] StepNameListener - Executing step: user is on home page
+[INFO ] 2024-06-02 14:54:33.558 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 14:54:33.788 [main] CommonMethods - Expected Title from properties file is =https://pdlconnect.test.govt.lh.primetherapeutics.com
+[INFO ] 2024-06-02 14:54:33.788 [main] CommonMethods - waiting for URL to Contain: https://pdlconnect.test.govt.lh.primetherapeutics.com
+[INFO ] 2024-06-02 14:55:14.035 [main] CommonMethods - current URL is :https://www.walmart.com/
+[INFO ] 2024-06-02 14:55:14.036 [main] CommonMethods - URL doesn't Containt: https://pdlconnect.test.govt.lh.primetherapeutics.com
+[INFO ] 2024-06-02 14:55:15.366 [main] CommonMethods - browser refreshed again
+[INFO ] 2024-06-02 14:55:15.367 [main] CommonMethods - waiting for URL to Contain: https://pdlconnect.test.govt.lh.primetherapeutics.com
+[INFO ] 2024-06-02 14:55:55.879 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 14:55:55.879 [main] StepNameListener - Executing step: user should land on my user page
+[INFO ] 2024-06-02 14:55:55.879 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 14:55:55.902 [main] Hooks - CLosing the Driver
+[INFO ] 2024-06-02 14:55:56.111 [main] Hooks - Driver Closed
+[INFO ] 2024-06-02 14:55:56.112 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-06-02 14:55:56.114 [main] Hooks - Scenario Description: Login : Status - FAILED
+[INFO ] 2024-06-02 14:55:56.114 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[WARN ] 2024-06-02 14:55:56.806 [main] FileSystemFontProvider - New fonts found, font cache will be re-built
+[WARN ] 2024-06-02 14:55:56.806 [main] FileSystemFontProvider - Building on-disk font cache, this may take a while
+[WARN ] 2024-06-02 14:55:58.902 [main] FileSystemFontProvider - Finished building on-disk font cache, found 428 fonts
+[INFO ] 2024-06-02 15:37:02.110 [main] Hooks - ================================================================
+[INFO ] 2024-06-02 15:37:02.114 [main] Hooks - Scenario Title: Scenario Description: Login :
+[INFO ] 2024-06-02 15:37:02.114 [main] Hooks - =================================================================
+[INFO ] 2024-06-02 15:37:02.118 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-06-02 15:37:06.714 [main] Hooks - *URL Lunched from hooks : https://www.walmart.com/
+[INFO ] 2024-06-02 15:37:06.714 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-06-02 15:37:06.746 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-06-02 15:37:06.746 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-06-02 15:37:06.790 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-06-02 15:37:06.798 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 15:37:06.798 [main] StepNameListener - Executing step: user is on home page
+[INFO ] 2024-06-02 15:37:06.799 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 15:37:07.597 [main] CommonMethods - Expected Title from properties file is =https://pdlconnect.test.govt.lh.primetherapeutics.com
+[INFO ] 2024-06-02 15:37:07.597 [main] CommonMethods - waiting for URL to Contain: https://pdlconnect.test.govt.lh.primetherapeutics.com
+[INFO ] 2024-06-02 15:37:47.855 [main] CommonMethods - current URL is :https://www.walmart.com/
+[INFO ] 2024-06-02 15:37:47.856 [main] CommonMethods - URL doesn't Containt: https://pdlconnect.test.govt.lh.primetherapeutics.com
+[INFO ] 2024-06-02 15:37:50.043 [main] CommonMethods - browser refreshed again
+[INFO ] 2024-06-02 15:37:50.044 [main] CommonMethods - waiting for URL to Contain: https://pdlconnect.test.govt.lh.primetherapeutics.com
+[INFO ] 2024-06-02 15:38:30.975 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 15:38:30.975 [main] StepNameListener - Executing step: user should land on my user page
+[INFO ] 2024-06-02 15:38:30.975 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 15:38:31.011 [main] Hooks - CLosing the Driver
+[WARN ] 2024-06-02 15:38:31.084 [AsyncHttpClient-1-4] WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) [netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) [netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:842) [?:?]
+[INFO ] 2024-06-02 15:38:31.266 [main] Hooks - Driver Closed
+[INFO ] 2024-06-02 15:38:31.267 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-06-02 15:38:31.269 [main] Hooks - Scenario Description: Login : Status - FAILED
+[INFO ] 2024-06-02 15:38:31.269 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-06-02 16:01:23.553 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 16:01:23.556 [main] StepNameListener - Executing step: I want to write a step with precondition
+[INFO ] 2024-06-02 16:01:23.557 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 16:01:23.562 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 16:01:23.563 [main] StepNameListener - Executing step: some other precondition
+[INFO ] 2024-06-02 16:01:23.563 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 16:02:12.975 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-06-02 16:02:16.622 [main] Hooks - *URL Lunched from hooks : https://www.walmart.com/
+[INFO ] 2024-06-02 16:02:16.622 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-06-02 16:02:16.638 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-06-02 16:02:16.638 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-06-02 16:02:16.989 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-06-02 16:02:16.994 [main] Hooks - ================================================================
+[INFO ] 2024-06-02 16:02:16.994 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-06-02 16:02:16.994 [main] Hooks - =================================================================
+[INFO ] 2024-06-02 16:02:16.998 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 16:02:16.999 [main] StepNameListener - Executing step: I want to write a step with precondition
+[INFO ] 2024-06-02 16:02:16.999 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 16:02:16.999 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-06-02 16:02:17.582 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 16:02:17.582 [main] StepNameListener - Executing step: some other precondition
+[INFO ] 2024-06-02 16:02:17.582 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 16:02:17.582 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-06-02 16:02:19.311 [main] Hooks - CLosing the Driver
+[INFO ] 2024-06-02 16:02:19.749 [main] Hooks - Driver Closed
+[INFO ] 2024-06-02 16:02:19.751 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-06-02 16:02:19.753 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-06-02 16:02:19.754 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[WARN ] 2024-06-02 16:07:17.680 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-06-02 16:07:23.182 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-06-02 16:07:29.104 [main] Hooks - *URL Lunched from hooks : https://www.walmart.com/
+[INFO ] 2024-06-02 16:07:29.105 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-06-02 16:07:29.131 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-06-02 16:07:29.131 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-06-02 16:07:29.181 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-06-02 16:07:29.189 [main] Hooks - ================================================================
+[INFO ] 2024-06-02 16:07:29.189 [main] Hooks - Scenario Title: running abc tag
+[INFO ] 2024-06-02 16:07:29.189 [main] Hooks - =================================================================
+[INFO ] 2024-06-02 16:07:29.202 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 16:07:29.203 [main] StepNameListener - Executing step: I want to write a step with precondition
+[INFO ] 2024-06-02 16:07:29.204 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 16:07:29.205 [main] abc_SetpD - ************************-----------------------abc tag---------------------------******************************
+[INFO ] 2024-06-02 16:07:30.825 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 16:07:30.826 [main] StepNameListener - Executing step: some other precondition
+[INFO ] 2024-06-02 16:07:30.826 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 16:07:30.826 [main] abc_SetpD - ************************-----------------------ABC tag---------------------------******************************
+[INFO ] 2024-06-02 16:07:31.255 [main] Hooks - CLosing the Driver
+[INFO ] 2024-06-02 16:07:31.671 [main] Hooks - Driver Closed
+[INFO ] 2024-06-02 16:07:31.673 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-06-02 16:07:31.676 [main] Hooks - running abc tag Status - PASSED
+[INFO ] 2024-06-02 16:07:31.676 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[WARN ] 2024-06-02 16:11:15.165 [main] TestRunner - Support to run JUnit tests using TestNG stands deprecated and will be removed in future versions. You can now use the JUnit5 TestNG engine to run both JUnit and TestNG tests. For more information refer to https://github.com/junit-team/testng-engine .
+[INFO ] 2024-06-02 16:11:19.918 [main] Hooks - Running Hooks before every scenario
+[INFO ] 2024-06-02 16:11:24.523 [main] Hooks - *URL Lunched from hooks : https://www.walmart.com/
+[INFO ] 2024-06-02 16:11:24.524 [main] CommonMethods - Wait for Web Page to load completely
+[INFO ] 2024-06-02 16:11:24.583 [main] CommonMethods - Web Page loaded successfully.
+[INFO ] 2024-06-02 16:11:24.584 [main] CommonMethods - Wait for AJAX to load completely
+[INFO ] 2024-06-02 16:11:25.411 [main] CommonMethods - AJAX component of the page loaded successfully.
+[INFO ] 2024-06-02 16:11:25.418 [main] Hooks - ================================================================
+[INFO ] 2024-06-02 16:11:25.419 [main] Hooks - Scenario Title: running DEF tag
+[INFO ] 2024-06-02 16:11:25.419 [main] Hooks - =================================================================
+[INFO ] 2024-06-02 16:11:25.427 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 16:11:25.427 [main] StepNameListener - Executing step: I want to write a step with precondition 2
+[INFO ] 2024-06-02 16:11:25.427 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 16:11:25.428 [main] abc_SetpD - ************************-----------------------DEF tag---------------------------******************************
+[INFO ] 2024-06-02 16:11:26.380 [main] StepNameListener - ---------------------------------------------------------------------
+[WARN ] 2024-06-02 16:11:26.380 [main] StepNameListener - Executing step: some other precondition 2
+[INFO ] 2024-06-02 16:11:26.380 [main] StepNameListener - ---------------------------------------------------------------------
+[INFO ] 2024-06-02 16:11:26.381 [main] abc_SetpD - ************************-----------------------DEF tag---------------------------******************************
+[INFO ] 2024-06-02 16:11:29.879 [main] Hooks - CLosing the Driver
+[INFO ] 2024-06-02 16:11:30.384 [main] Hooks - Driver Closed
+[INFO ] 2024-06-02 16:11:30.387 [main] Hooks - ------------------------------------------------------------------------------------------------------
+[INFO ] 2024-06-02 16:11:30.389 [main] Hooks - running DEF tag Status - PASSED
+[INFO ] 2024-06-02 16:11:30.389 [main] Hooks - ------------------------------------------------------------------------------------------------------

@@ -22,8 +22,8 @@ public class HomePage extends CommonMethods{
 
 	public HomePage() {
 		PageFactory.initElements(Driver.getDriver(), this);
-		System.out.print("Sadia is the New Manager2");
-		
+		System.out.println("Sadia is the New Manager2");
+		System.out.println("Bullshit");
 	}
 	
 	
