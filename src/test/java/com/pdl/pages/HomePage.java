@@ -22,7 +22,7 @@ public class HomePage extends CommonMethods{
 
 	public HomePage() {
 		PageFactory.initElements(Driver.getDriver(), this);
-		System.out.println("Sadia is the New Manager2");
+		logger.info("abch sdfsdkfjh");
 		System.out.println("Bullshit");
 	}
 	
