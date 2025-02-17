@@ -1,7 +1,10 @@
 package com.eal.runners;
 
 import org.junit.After;
+import org.junit.FixMethodOrder;
 import org.junit.runner.RunWith;
+import org.junit.runners.MethodSorters;
+
 import com.vimalselvam.cucumber.listener.Reporter;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -27,6 +30,9 @@ import io.cucumber.junit.CucumberOptions;
 		
 //		monochrome=false
 )
+
+
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 
 public class EALRunner {
 	
